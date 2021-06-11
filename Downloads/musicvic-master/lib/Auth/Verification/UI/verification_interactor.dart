@@ -1,0 +1,3 @@
+class VerificationInteractor {
+  void verify() {}
+}
